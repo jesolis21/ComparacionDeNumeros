@@ -1,0 +1,23 @@
+
+
+body {
+    background-color: #a18484;
+    
+}
+
+#comparacion {
+
+    background-color: #ffff; 
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    border: red;
+    border-radius: 10px;
+    margin: 100px;
+    padding: 50px;
+
+}
+
+#comparacion1{
+    padding: 30px;
+}
